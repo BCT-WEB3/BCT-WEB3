@@ -1,4 +1,4 @@
-# Welcome to My First Repository!
+# Welcome to My Repository!
 
 Hi there! 👋 I'm Bill Cortez, I’m excited to share my inaugural project on GitHub.
 This repository serves as a place for me to share my work, learn, and grow as a developer. 
